@@ -21,7 +21,7 @@ public class allmissingno {
         }
         for(int index=0; index <arr.length; index++){
             if(arr[index]!= index){
-                ans= ans.add arr[index];
+               
                 return ans;
             }
         }

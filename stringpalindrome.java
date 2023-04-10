@@ -11,7 +11,7 @@ public class stringpalindrome {
             char ch= s.charAt(i);
             rev= rev+ch;
         }
-        if(rev.equals(orig)){
+        if(rev.equals(orig) ){
            System.out.println("yes it is palindrome");
 
         }

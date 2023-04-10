@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "lcm",
+            "request": "launch",
+            "mainClass": "lcm",
+            "projectName": "Java Workspace_ea77a2d0"
+        },
+        {
+            "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "Java Workspace_ea77a2d0"
+        },
+        {
+            "type": "java",
+            "name": "rec_sumofnumber",
+            "request": "launch",
+            "mainClass": "rec_sumofnumber",
+            "projectName": "Java Workspace_ea77a2d0"
+        },
+        {
+            "type": "java",
+            "name": "bit_findunique",
+            "request": "launch",
+            "mainClass": "bit_findunique",
+            "projectName": "Java Workspace_ea77a2d0"
+        },
+        {
+            "type": "java",
+            "name": "recu_upper",
+            "request": "launch",
+            "mainClass": "recu_upper",
+            "projectName": "Java Workspace_ea77a2d0"
+        },
+        {
+            "type": "java",
             "name": "queslee1",
             "request": "launch",
             "mainClass": "queslee1",

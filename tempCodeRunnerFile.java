@@ -1,1 +1,1 @@
-arr[i] < arr.length
+3

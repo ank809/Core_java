@@ -24,5 +24,5 @@ public class missingno {
         }
         return arr.length;
     }
-    
+ 
 }

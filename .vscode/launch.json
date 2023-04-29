@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "mergesort3",
+            "request": "launch",
+            "mainClass": "mergesort3",
+            "projectName": "Java Workspace_ea77a2d0"
+        },
+        {
+            "type": "java",
+            "name": "duplicate1",
+            "request": "launch",
+            "mainClass": "duplicate1",
+            "projectName": "Java Workspace_ea77a2d0"
+        },
+        {
+            "type": "java",
+            "name": "duplicate",
+            "request": "launch",
+            "mainClass": "duplicate",
+            "projectName": "Java Workspace_ea77a2d0"
+        },
+        {
+            "type": "java",
+            "name": "negative_at_left",
+            "request": "launch",
+            "mainClass": "negative_at_left",
+            "projectName": "Java Workspace_ea77a2d0"
+        },
+        {
+            "type": "java",
+            "name": "mergesort1",
+            "request": "launch",
+            "mainClass": "mergesort1",
+            "projectName": "Java Workspace_ea77a2d0"
+        },
+        {
+            "type": "java",
+            "name": "isarraysorted",
+            "request": "launch",
+            "mainClass": "isarraysorted",
+            "projectName": "Java Workspace_ea77a2d0"
+        },
+        {
+            "type": "java",
             "name": "rec_bubblesort",
             "request": "launch",
             "mainClass": "rec_bubblesort",

@@ -9,7 +9,7 @@ public class N_queens {
             display(board);
             System.out.println();
             return 1;
-        
+        }
         int count=0;
         for(int col=0; col<board.length; col++){
             if(isSafe(board, row, col)){

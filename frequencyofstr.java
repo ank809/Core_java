@@ -5,7 +5,7 @@ public class frequencyofstr {
     int l= s.length();
     String res="" ;
     // for sorting
-    for(char b= 'a'; b<='z';b++){
+    for (char i= 'a'; i <='z' ;i++){
         for(int j=0;j<=l-1;j++){
             char ch= s.charAt(j);
             if(ch==i){
@@ -13,11 +13,11 @@ public class frequencyofstr {
             }
          }
     }
-    for(char b= 'a'; b<='z';b++){
+    for(char j= 'a'; j<='z';j++){
         int count=0;
         for(int i=0; i<l ; i++){
             char ch= res.charAt(i);
-            if(b==ch){
+            if(j==ch){
                 count++;
             }
         }

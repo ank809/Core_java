@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hell",
+            "request": "launch",
+            "mainClass": "hell",
+            "projectName": "Java Workspace_ea77a2d0"
+        },
+        {
+            "type": "java",
             "name": "Access_main",
             "request": "launch",
             "mainClass": "Access_main",

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main_Car",
+            "request": "launch",
+            "mainClass": "OOPS_JAVA.Main_Car",
+            "projectName": "Java Workspace_ea77a2d0"
+        },
+        {
+            "type": "java",
+            "name": "abstract_main",
+            "request": "launch",
+            "mainClass": "OOPS_JAVA.abstract_main",
+            "projectName": "Java Workspace_ea77a2d0"
+        },
+        {
+            "type": "java",
             "name": "mul",
             "request": "launch",
             "mainClass": "mul",

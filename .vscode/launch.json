@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main_C",
+            "request": "launch",
+            "mainClass": "Linked_List.Main_C",
+            "projectName": "Java Workspace_ea77a2d0"
+        },
+        {
+            "type": "java",
+            "name": "Main_Doubly",
+            "request": "launch",
+            "mainClass": "Linked_List.Main_Doubly",
+            "projectName": "Java Workspace_ea77a2d0"
+        },
+        {
+            "type": "java",
             "name": "Rev_main",
             "request": "launch",
             "mainClass": "Linked_List.Rev_main",

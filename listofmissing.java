@@ -1,10 +1,12 @@
+import java.util.List;
+import java.util.ArrayList;
 public class listofmissing {
     public static void main(String[] args) {
         int [] arr= {3, 0, 1};
-        int ans= sort(arr);
+        List<Integer> ans= sort(arr);
         System.out.print(ans);
     }
-    static int sort(int [] arr){
+    static List<Integer> sort(int [] arr){
         int i=0;
         while(i<arr.length){
             int correct= arr[i];
@@ -17,7 +19,7 @@ public class listofmissing {
                 i++;
             }
         } 
-        List<Integer> ans = new ArraysList<>();
+        List<Integer> ans = new ArrayList<>();
             for(int index=0; index <arr.length; index++){
                 if(arr[index]!=index+1){
                 ans.add(index+1);

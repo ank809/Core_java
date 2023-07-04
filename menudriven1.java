@@ -6,7 +6,7 @@ public class menudriven1 {
     boolean val;
     int orig;
     void accept(){
-        Scanner sc=new Scanner (System.in);
+        Scanner sc =new Scanner (System.in);
         System.out.println("Enter the value of x:");
         x= sc.nextInt();
         System.out.println("Enter the value of y:");
@@ -17,7 +17,7 @@ public class menudriven1 {
         z=x+y;
     }
     void is_special(){
-        System.out.println("the no we have to check is  special or not:"+z);
+        System.out.println("The number which we want to check is special or not:"+z);
         // 143= 1!+4!+ 5!
          orig = z;
         int sum=0;

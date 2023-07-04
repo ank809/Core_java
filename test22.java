@@ -26,4 +26,3 @@ public class test22 {
     System.out.println(mergeAlternately("ab", "pqrs"));
   }
 }
-++

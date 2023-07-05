@@ -8,7 +8,7 @@ public class helloworld extends functionwithnostatic{
         // x=x+5;
         // System.out.println(x);
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter two nos");
+        System.out.println("Enter two numbers");
         int a = sc.nextInt();
         int b = sc.nextInt();
         functionwithnostatic fun = new functionwithnostatic();

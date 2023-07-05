@@ -7,7 +7,7 @@ public class linearsearchstring {
         String s = sc.nextLine();
         System.out.println("Enter the character you want to search:");
         String chInput = sc.next();
-        char ch = chInput.charAt(0); // Extract the first character from the input
+        char ch = chInput.charAt(0); // This will extract the first character from the input string 
 
         int l = s.length();
         int count = 0;

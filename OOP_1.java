@@ -1,8 +1,5 @@
 public class OOP_1 {
 public static void main(String[] args) {
-    // Student kunal = new Student();
-    // Student rohit= new Student();
-    // kunal.rno=12;
     // kunal.name= "Kunal Kushwaha";
     
     //kunal.marks=90.5f;

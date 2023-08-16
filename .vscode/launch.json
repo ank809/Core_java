@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Selection_Sort",
+            "request": "launch",
+            "mainClass": "Selection_Sort",
+            "projectName": "Java Workspace_ea77a2d0"
+        },
+        {
+            "type": "java",
             "name": "nearest",
             "request": "launch",
             "mainClass": "nearest",

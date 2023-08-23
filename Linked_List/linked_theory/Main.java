@@ -27,7 +27,7 @@ public class Main {
         list.display();
         System.out.println();
         System.out.println(list.search(90));
-        // list.display();
+        list.display();
 
 
     }

@@ -6,7 +6,6 @@ public class Circular_LL {
 
 
     // For inserting after tail
-
     public void Insertaftertail(int value){
         Node node= new Node(value);
         if(head==null){

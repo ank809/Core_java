@@ -3,7 +3,7 @@ public class Custom_Stack {
     int [] data;
     protected final static int  Default_Size=10;
 
-// if the user do no pass anything
+// if the user do not pass anything
     Custom_Stack(){
         this.data= new int[Default_Size];
     }

@@ -19,7 +19,6 @@ public class DoublyLinked_List {
     }
 
     private Node head;
-    private Node tail;
     int size;
     DoublyLinked_List(){
         this.size=0;
@@ -72,7 +71,7 @@ public class DoublyLinked_List {
     public void InsertAfterr(int after, int val){
         Node p= find(after);
         if(p==null){
-            System.out.println("node not exixt");
+            System.out.println("node not exist");
             return;
         }
         Node node=  new Node(val);

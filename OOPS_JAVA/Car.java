@@ -1,7 +1,6 @@
 package OOPS_JAVA;
 
-public class Car implements Engine, Media, Brake  {
-
+public class Car implements Engine, Media, Brake {
 
     @Override
     public void start() {
@@ -22,6 +21,5 @@ public class Car implements Engine, Media, Brake  {
     public void brake() {
         System.out.println("I brake like a normal car");
     }
-    
-    
+
 }

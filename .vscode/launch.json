@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MyException",
+            "request": "launch",
+            "mainClass": "Exception_Handling.MyException",
+            "projectName": "Core_java_579e61ac"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionHandling",
+            "request": "launch",
+            "mainClass": "Exception_Handling.ExceptionHandling",
+            "projectName": "Core_java_579e61ac"
+        },
+        {
+            "type": "java",
+            "name": "Lambda_Functions",
+            "request": "launch",
+            "mainClass": "Generics.Lambda_Functions",
+            "projectName": "Core_java_579e61ac"
+        },
+        {
+            "type": "java",
+            "name": "Comparision",
+            "request": "launch",
+            "mainClass": "Generics.Comparision",
+            "projectName": "Core_java_579e61ac"
+        },
+        {
+            "type": "java",
+            "name": "CustomGenericArrayList",
+            "request": "launch",
+            "mainClass": "Generics.CustomGenericArrayList",
+            "projectName": "Core_java_579e61ac"
+        },
+        {
+            "type": "java",
+            "name": "CustomArrayList",
+            "request": "launch",
+            "mainClass": "Generics.CustomArrayList",
+            "projectName": "Core_java_579e61ac"
+        },
+        {
+            "type": "java",
+            "name": "Multidimensional_ArrayList",
+            "request": "launch",
+            "mainClass": "ArrayList.Multidimensional_ArrayList",
+            "projectName": "Core_java_579e61ac"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLIst",
+            "request": "launch",
+            "mainClass": "ArrayList.ArrayLIst",
+            "projectName": "Core_java_579e61ac"
+        },
+        {
+            "type": "java",
+            "name": "abstract_main",
+            "request": "launch",
+            "mainClass": "OOPS_JAVA.abstract_main",
+            "projectName": "Core_java_579e61ac"
+        },
+        {
+            "type": "java",
             "name": "Main_Car",
             "request": "launch",
             "mainClass": "OOPS_JAVA.Main_Car",

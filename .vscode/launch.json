@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FileDetails",
+            "request": "launch",
+            "mainClass": "File_Handling.FileDetails",
+            "projectName": "Core_java_579e61ac"
+        },
+        {
+            "type": "java",
+            "name": "CreateReadWrite",
+            "request": "launch",
+            "mainClass": "File_Handling.CreateReadWrite",
+            "projectName": "Core_java_579e61ac"
+        },
+        {
+            "type": "java",
+            "name": "Buffferedwriter",
+            "request": "launch",
+            "mainClass": "File_Handling.Buffferedwriter",
+            "projectName": "Core_java_579e61ac"
+        },
+        {
+            "type": "java",
+            "name": "Filewriter",
+            "request": "launch",
+            "mainClass": "File_Handling.Filewriter",
+            "projectName": "Core_java_579e61ac"
+        },
+        {
+            "type": "java",
+            "name": "Outputstreamwriter",
+            "request": "launch",
+            "mainClass": "File_Handling.Outputstreamwriter",
+            "projectName": "Core_java_579e61ac"
+        },
+        {
+            "type": "java",
+            "name": "Bufferedreader",
+            "request": "launch",
+            "mainClass": "File_Handling.Bufferedreader",
+            "projectName": "Core_java_579e61ac"
+        },
+        {
+            "type": "java",
+            "name": "Filereader",
+            "request": "launch",
+            "mainClass": "File_Handling.Filereader",
+            "projectName": "Core_java_579e61ac"
+        },
+        {
+            "type": "java",
+            "name": "Inputstreamreader",
+            "request": "launch",
+            "mainClass": "File_Handling.Inputstreamreader",
+            "projectName": "Core_java_579e61ac"
+        },
+        {
+            "type": "java",
+            "name": "Enums",
+            "request": "launch",
+            "mainClass": "Collections.Enums",
+            "projectName": "Core_java_579e61ac"
+        },
+        {
+            "type": "java",
+            "name": "Vectors",
+            "request": "launch",
+            "mainClass": "Collections.Vectors",
+            "projectName": "Core_java_579e61ac"
+        },
+        {
+            "type": "java",
             "name": "MyException",
             "request": "launch",
             "mainClass": "Exception_Handling.MyException",

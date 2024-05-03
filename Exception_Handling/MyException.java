@@ -18,6 +18,5 @@ public class MyException extends Exception {
         } finally {
             System.out.println("This will always run");
         }
-
     }
 }

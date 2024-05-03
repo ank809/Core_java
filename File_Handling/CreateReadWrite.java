@@ -15,7 +15,7 @@ public class CreateReadWrite {
         }
 
         // Writing into file
-        try (FileWriter fw = new FileWriter("NewFile")) {
+        try (FileWriter fw = new FileWriter("NewFile1")) {
             String s = sc.nextLine();
             fw.write(s);
         } catch (IOException e) {
@@ -24,7 +24,7 @@ public class CreateReadWrite {
 
         // Reading from file character by character
 
-        try (FileReader fr = new FileReader("NewFile")) {
+        try (FileReader fr = new FileReader("NewFile1")) {
             int text = fr.read();
             while (text != -1) {
                 System.out.println((char) text);
